@@ -3,8 +3,11 @@
 Welcome to my Arkanoid Game!
 this game was created in OOP course and using OOP principles and design patterns. 
 you can enter the game and break the bricks and win points!
+
 you have 4 levels.
+
 Level 1:
+
 ![image](https://user-images.githubusercontent.com/47318413/175823958-bbb5b303-a9f1-40c3-a33b-e7fa55cf14f2.png)
 
 Level 2:
